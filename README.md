@@ -17,6 +17,5 @@
     <img aling="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoravelinodev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Apaixonado por Tecnogia..🎓
