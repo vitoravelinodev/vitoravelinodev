@@ -16,6 +16,6 @@
 
 ## Estátisticas
 ![vitoravelinodev GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoravelinodev&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/vitoravelinodev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoravelinodev&hide_progress=true)
 
 ### Apaixonado por Tecnologia..🎓
