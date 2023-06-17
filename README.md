@@ -16,10 +16,10 @@
 
                                                     ## Estátisticas
 
-## Commits e etc..                                                    
+## Commits e etc.. 🧑‍💻                                               
 ![vitoravelinodev GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoravelinodev&show_icons=true&theme=transparent)
 
-## Linguagens e etc..
+## Linguagens e etc.. 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoravelinodev&hide_progress=true)
 
 ### Apaixonado por Tecnologia..🎓
