@@ -14,8 +14,12 @@
   <img aling="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div><br/>
 
-## Estátisticas
+                                                    ## Estátisticas
+
+## Commits e etc..                                                    
 ![vitoravelinodev GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoravelinodev&show_icons=true&theme=transparent)
+
+## Linguagens e etc..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoravelinodev&hide_progress=true)
 
 ### Apaixonado por Tecnologia..🎓
