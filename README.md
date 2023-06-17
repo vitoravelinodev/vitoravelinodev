@@ -18,4 +18,4 @@
 ![vitoravelinodev GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoravelinodev&show_icons=true&theme=transparent)
 
 
-### Apaixonado por Tecnogia..🎓
+### Apaixonado por Tecnologia..🎓
